@@ -1,0 +1,15 @@
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\bin\Debug\net6.0\Homework-Interface.exe
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\bin\Debug\net6.0\Homework-Interface.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\bin\Debug\net6.0\Homework-Interface.runtimeconfig.json
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\bin\Debug\net6.0\Homework-Interface.dll
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\bin\Debug\net6.0\Homework-Interface.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.dll
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\refint\Homework-Interface.dll
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\Homework-Interface.genruntimeconfig.cache
+C:\Users\Farid\Desktop\homewotk\c#\Homework-Interface\Homework-Interface\obj\Debug\net6.0\ref\Homework-Interface.dll
